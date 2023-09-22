@@ -19,7 +19,7 @@ to withdraw money,deposit.
 5.Execute it.
 ### UML DIAGRAMS:
 ### Usecase Diagram:
-![image](https://github.com/DEVADARSHAN2/LAB-1-ATM/assets/119432150/5d2ac41e-d7da-4959-9627-9a03648b7571)
+![image](https://github.com/DEVADARSHAN2/LAB-1-ATM/assets/119432150/63255f20-661d-4949-b3fa-6b31892c17fd)
 ### SEQUENCE DIAGRAM:
 ![image](https://github.com/DEVADARSHAN2/LAB-1-ATM/assets/119432150/1b12bbc9-95d3-4784-aec2-dc596bc5b16c)
 ### Class Diagram:
